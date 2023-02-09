@@ -1,4 +1,6 @@
-public class task4 {
+package pl.andrew.homework1;
+
+public class Task4 {
     public static void main(String[] args) {
      //   int firsNumber= 5;
        //         int secondNumer= 12;

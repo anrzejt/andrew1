@@ -1,4 +1,4 @@
-package andrew1;
+package pl.andrew.homework1;
 
 public class Task6 {
     public static void main(String[] args) {
